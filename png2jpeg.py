@@ -1,4 +1,4 @@
-#!/Users/fenghuabin/anaconda3/bin/python
+#!/usr/bin/env python
 
 import os
 import sys
