@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!env python
 
 # Note: if you are in China, you should make sure your shell can't visit
 # foreign websites, otherwise you may fail to use git api
